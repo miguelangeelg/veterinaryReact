@@ -9,6 +9,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.6.0",
+    "expo": "^40.0.1",
     "firebase": "^8.2.9",
     "material-ui-icons": "^1.0.0-beta.36",
     "moment": "^2.29.1",
